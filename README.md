@@ -34,4 +34,4 @@ För att skapa .exe fil:
 
 8. Strata genom att trycka på "CONVERT .PY TO .EXE"
 
-9. Filen gennereras och finns sedan under "C:\Users\'namn'\output"
+9. Filen genereras och finns sedan under "C:\Users\'namn'\output"
