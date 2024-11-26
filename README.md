@@ -1,6 +1,6 @@
 Skapar normaldata för (programmet)
 
-Öppna (detta program) och vlälj för vilken undersökning du vill skapa nytt normalmaterial för (O-15 vatten / O-15 vatten (stress/basline) / F-18 PE2I / C-11 PE2I)
+Öppna (detta program) och välj för vilken undersökning du vill skapa nytt normalmaterial för (O-15 vatten / O-15 vatten (stress/basline) / F-18 PE2I / C-11 PE2I)
 
 Välj zip mappen (eller en vanlig mapp) med sparade (K_1 eller R_I) .nni/.nii.gz bilder (måste vara sparade från (programmet) och i MNI space)
 
