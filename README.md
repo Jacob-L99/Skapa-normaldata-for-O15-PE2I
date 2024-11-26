@@ -6,3 +6,5 @@ Klicka på 'Starta' (och vänta medans programmet beräknar ny normaldata)
 När programmet är klart dyker det upp en ny (window) som säger att det är klart
 Klicka på tillbaka om du vill skapa normalmaterial för någon anna undersökning eller stäng sidan
 (Allt gammalt normalmaterial sparas i samma mapp med tillägget '-backup', om det nya normalmaterialet inte blir bra kan man gå in i mappen och ta bort de nya och ta bort '-backup' från de gamla)
+
+(Skrivet i python 3.9)
