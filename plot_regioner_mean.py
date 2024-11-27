@@ -141,9 +141,6 @@ def regions_z_score(k_1, frame, wat):
     for i, mask_name in enumerate(mask_names):
         mask = data[..., i]
         
-        # Ensure that the mask is binary
-        if not np.array_equal(mask, mask.astype(bool)):
-            # print(f"Warning: Mask '{mask_name}' is not binary. Proceeding with computation.")
         
         # Apply the transformation k_1 to the mask
         transformed_mask = mask * k_1
